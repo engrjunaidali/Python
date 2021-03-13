@@ -1,0 +1,6 @@
+print("Wellcome to CSIT")
+# Print('Welcome to (CSIT)')
+# PRINT("Welcome to NEDUET")
+# pRint("Welcome to Karachi")
+print("print")
+print(print)
